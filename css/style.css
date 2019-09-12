@@ -12,11 +12,23 @@ outline:5px white solid;
 
 
 
-#peaceCard{margin-left: 8%}
-#socialCard{margin-left: 5%}
-#togetherCard{margin-left: 5%}
-#toleranceCard{margin-left: 38%}
-#div-donation{margin-left: 4%}
+#peaceCard{
+        margin-left: 8%;
+background-color: #DDA73A;
+}
+#socialCard{
+        margin-left: 5%;
+        background-color: #4CA146;
+}
+#togetherCard{
+        margin-left: 5%;
+        background-color: #C7212F;
+}
+#toleranceCard{
+        margin-left: 38%;
+background-color: #136A9F
+}
+
 footer{
        /* height: px;*/
         margin-top: -20px;

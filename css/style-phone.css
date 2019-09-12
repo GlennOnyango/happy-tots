@@ -2,11 +2,17 @@
 nav{
   outline:5px white solid;
   }
-#peaceCard{margin-left: 40px}
-#socialCard{margin-left: 10%}
-#togetherCard{margin-left: 10%}
-#toleranceCard{margin-left: 10%}
-#div-donation{margin-left: 10%}
+#peaceCard{margin-left: 40px;
+  background-color: #DDA73A;
+}
+#socialCard{margin-left: 10%;
+  background-color: #4CA146;
+}
+#togetherCard{margin-left: 10%;
+  background-color: #C7212F;
+}
+#toleranceCard{margin-left: 10%;background-color: #136A9F}
+
 #img1,#img2,#img3{
   padding: 5%;
 }
