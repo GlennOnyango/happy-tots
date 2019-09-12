@@ -1,4 +1,8 @@
-#peaceCard{margin-left: 45px}
+
+nav{
+  outline:5px white solid;
+  }
+#peaceCard{margin-left: 40px}
 #socialCard{margin-left: 10%}
 #togetherCard{margin-left: 10%}
 #toleranceCard{margin-left: 10%}

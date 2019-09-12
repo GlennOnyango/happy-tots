@@ -38,9 +38,7 @@ main{
 .navbar-fixed{
         height:10px;
 }
-#con_pic{
 
-}
 #heading-sus{
 margin-left: 1%;
 margin-top: 5%;
@@ -61,13 +59,6 @@ margin-right:3%;
 #c_p_1,#c_p_1_1,#c_p_1_2{
 margin-right:100px;
 margin-left:40px;
-}
-
-#c_p_2,#c_p_2.1{
-margin-right:100px;
-}
-#c_p_3,#c_p_3.1{
-margin-left:10px
 }
 
 /* feeding program*/
