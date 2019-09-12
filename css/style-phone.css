@@ -1,0 +1,60 @@
+#peaceCard{margin-left: 45px}
+#socialCard{margin-left: 10%}
+#togetherCard{margin-left: 10%}
+#toleranceCard{margin-left: 10%}
+#div-donation{margin-left: 10%}
+#img1,#img2,#img3{
+  padding: 5%;
+}
+body{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+main{
+  flex: 1 0 auto;
+}
+iframe{
+margin-left:10px;
+}
+
+#img1,#img2,#img3{
+        height: 300px;
+}
+
+/*academics*/
+
+#a_image1,#a_image2{
+margin-left:10%;
+margin-right:10%;
+}
+
+/*culture*/
+#cul_img1,#cul_img4,#cul_img7{
+padding-top:2%;
+padding-left:15%}
+#cul_img2,#cul_img5,#cul_img8{
+padding-top:2%;
+padding-left:15%}
+#cul_img3,#cul_img6,#cul_img9{
+padding-top:2%;
+padding-left:15%
+}
+
+
+/*sidebar*/
+#home_mobile,#academics_mobile,#culture_mobile,#feeding_mobile,#donate_mobile,#notifications_mobile{
+margin-left:8px;
+
+}
+
+#one_mobi:hover,#two_mobi:hover,#three_mobi:hover,#four_mobi:hover,#five_mobi:hover,#six_mobi:hover{
+background-color:#e0f2f1;
+height:60px;
+}
+
+
+/*donate-box*/
+#donate-box-all{
+  width: 350px;
+}

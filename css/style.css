@@ -1,0 +1,119 @@
+/*li{
+     font-family: 'Tangerine', serif;
+        font-size: 24px;
+}*/
+
+nav{
+outline:5px white solid;
+}
+
+
+
+
+
+
+#peaceCard{margin-left: 8%}
+#socialCard{margin-left: 5%}
+#togetherCard{margin-left: 5%}
+#toleranceCard{margin-left: 38%}
+#div-donation{margin-left: 4%}
+footer{
+       /* height: px;*/
+        margin-top: -20px;
+
+}
+body{
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+
+margin-left:2%;
+margin-right:2%;
+
+}
+main{
+        flex: 1 0 auto;
+}
+
+.navbar-fixed{
+        height:10px;
+}
+#con_pic{
+
+}
+#heading-sus{
+margin-left: 1%;
+margin-top: 5%;
+margin-bottom: 4%;
+}
+#img1,#img2,#img3{
+        height: 500px;
+}
+#cara{
+        height: 500px;
+}
+#acd_a{
+margin-left:3%;
+margin-right:3%;
+}
+
+
+#c_p_1,#c_p_1_1,#c_p_1_2{
+margin-right:100px;
+margin-left:40px;
+}
+
+#c_p_2,#c_p_2.1{
+margin-right:100px;
+}
+#c_p_3,#c_p_3.1{
+margin-left:10px
+}
+
+/* feeding program*/
+#fdp_a{
+margin:1%;
+}
+#fdp_p,#fdp_p_1,#fdp_p_2,#fdp_s{
+margin-left:5%;
+
+}
+#one1,#two2,#three3,#one1_2,#two2_2,#three3_2,#fdp_s_3,#fdp_s_2,#fdp_s_1{
+margin-left:5%;
+}
+
+
+/*academics*/
+#a_image1,#a_image2{
+margin-top:10%;
+}
+#testi_image1{
+margin-left:15%;
+}
+#testi_image3{
+margin-left:1%;
+
+}
+#testi_image3{
+margin-left:1%;
+}
+
+
+
+/*culture*/
+#cul_img1,#cul_img4,#cul_img7{
+margin-right:100px;margin-left:40px
+}
+#cul_img2,#cul_img5,#cul_img8{
+margin-right:100px
+}
+#cul_img3,#cul_img6,#cul_img9{
+margin-left:10px
+}
+
+
+
+/*donate-box*/
+#donate-box-all{
+        width: 500px;
+      }
