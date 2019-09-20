@@ -31,46 +31,22 @@ setTimeout(() => {
 setTimeout(() => {
     $(cards[8]).removeClass('hiddendiv');
  
+}, 992);
+
+    }, 993);
+
+}, 994);
+
+    },995);
+
+}, 996);
+
+}, 997);
+
+}, 998);
+
+    }, 999);
+
 }, 1000);
-
-    }, 1000);
-
-}, 1000);
-
-    }, 1000);
-
-}, 1000);
-
-}, 1000);
-
-}, 1000);
-
-    }, 1000);
-
-}, 1000);
-
-
-
-    /*for (let index = 0; index < 9; index++) {
-
-        interval = 3000;
-
-        setTimeout(() => {
-            $(cards[2]).removeClass('hiddendiv');
-        }, interval);
-
-interval -= 100;
-
-    }*/
-
-    /*cards.forEach(element => {
-        
-        
-        setTimeout(() => {
-            $(element).removeClass('hiddendiv');
-        }, 2000);
-
-    });
-*/
 
 });

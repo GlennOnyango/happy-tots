@@ -69,11 +69,9 @@ height:60px;
   width: 350px;
 }
 
-/*#cr,#fp,#st,#lm,#pg,#tl,#tc,#cp,#lb{
-
-  margin-left: 8px;
-  margin-right: 8px;
-  } */     
+#cr,#fp,#st,#lm,#pg,#tl,#tc,#cp,#lb{
+height: 250px;
+  }      
   #d_needs{
-        margin-left: 10%;
+        margin-left: 10px;
 }
