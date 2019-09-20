@@ -120,3 +120,13 @@ margin-left:10px
 #donate-box-all{
         width: 500px;
       }
+
+
+#cr,#fp,#st,#lm,#pg,#tl,#tc,#cp,#lb{
+margin: 4px;
+padding: 16px;
+}      
+
+#d_needs{
+        margin-left: 18%;
+}
