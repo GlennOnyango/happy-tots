@@ -6,12 +6,9 @@
 nav{
 outline:5px white solid;
 }
-
-
-
-
-
-
+#hp{
+margin-left: 15px;
+}
 #peaceCard{
         margin-left: 8%;
 background-color: #DDA73A;
@@ -123,11 +120,10 @@ margin-left:10px
 
 
 #cr,#fp,#st,#lm,#pg,#tl,#tc,#cp,#lb{
-margin: 4px;
-padding: 16px;
+margin: 20px;
 height: 250px;
 }      
 
 #d_needs{
-        margin-left: 18%;
+       /* margin-left: 18%;*/
 }

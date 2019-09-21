@@ -1,12 +1,16 @@
 $(document).ready(function () {
-
+    $('#d_needs').slideDown("fast");
 
     cards = ['#cr', '#fp', '#st', '#lm', '#pg', '#tl', '#tc', '#cp', '#lb'];
 
 
 setTimeout(() => {
-    $(cards[0]).removeClass('hiddendiv');
- 
+    $(cards[0]).fadeIn(100, function () {
+        $(cards[0]).removeClass('hiddendiv');
+        
+    });
+    
+    
     setTimeout(() => {
         $(cards[1]).removeClass('hiddendiv');
      
